@@ -1,0 +1,5 @@
+spacy==2.2
+requests
+requests-html
+bs4
+feedparser
