@@ -13,7 +13,11 @@ cd parlamenti_felszolalasok
 python3 -m venv .env
 source .env/bin/activate
 pip install -r requirements.txt # ez sok ido lesz
+```
 
+hasznalat:
+
+```bash
 python dl.py # ez letolti az aktualis ciklus parlamenti politikusainak aktualis ciklusban tett felszolalasait a raw.csv-be
 
 python pre.py # a raw.csv-bol kiszedi a sallangokat, az eredmenyt beirja a preprocessed.csv-be
