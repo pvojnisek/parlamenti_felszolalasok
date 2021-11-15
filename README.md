@@ -27,6 +27,9 @@ python train.py # a preprocessed.csv alapjan betanit egy szovegkategorizalo neur
 python rsstest.py # a modelt lefutattja nehany hirportal utolso nehany belpolitikaval kapcsolatos cikken
 ```
 
+A scriptek Orosz György magyar nyelvű spacy modeljét használják:
+https://github.com/spacy-hu/spacy-hungarian-models
+
 A kod nagy resze eleg ronda lett, majd javitom ha lesz egy kis szabadidom, illetve jelenleg csak az aktualis ciklusrol gyujt infot, ez terveim szerint valtozni fog.
 
 Mindenfele politikai elfogultsagot visszautasitok, ez a projekt kizarolag kutatasi celbol jott letre es semmikep sem lejartni egyes politikai partokat, kepviseloket lapokat vagy ujsagirokat.
