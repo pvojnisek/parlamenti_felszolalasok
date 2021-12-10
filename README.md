@@ -37,3 +37,5 @@ Mindenfele politikai elfogultsagot visszautasitok, ez a projekt kizarolag kutata
 A hirtportalok politikai oldal szerinti osztalyzasa nem celom es a scriptek eredmenyet nem tartom beszamithatonak, mert kepviseloi felszolalasokon tanitottt neuralis halozat (tobb okbol, amire itt nem terek ki) nem kepes hibatlanul kategorizalni cikkeket.
 
 Az adathalmazt tartalmazo csv fajlok github releasebol elerhetok
+
+Lescrapeltem még egy csomó információt a parlament.hu-ról, amit nem használtam fel, de még valakinek jól jöhet, ezért ezt is kitettem releasebe.
